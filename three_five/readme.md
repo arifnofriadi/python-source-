@@ -13,10 +13,12 @@ Kita membutuhkan **For** untuk melakukan perulangan berdasarkan interval
 ## Statement Conditional
 **Statement Conditional atau Percabangan** digunakan untuk memberikan instruksi kepada komputer untuk melakukan tindakan yang telah diatur
 
-Pada kali ini kita menggunakan **percabangan if else** 
-**if** yang berarti **jika**, **else if atau elif pada python** yang berarti **jika tidak** dan **else** yang berarti **tidak**
+Pada kali ini kita menggunakan **percabangan if else**. 
+* **if** yang berarti **jika**
+* **else if atau elif pada python** yang berarti **jika tidak**
+* **else** yang berarti **tidak**.
 
-Maksudnya begini jika kondisi **if** terpenuhi maka komputer akan menjalankan tindakan didalamnya, namun jika tidak terpenuhi lanjut ke kondisi kedua **elif** dan seterusnya, tapi jika tidak ada lagi kondisi yang terpenuhi makan komputer kondisi/tindakan pada blok **else**
+Maksudnya begini jika kondisi **if** terpenuhi maka komputer akan menjalankan tindakan didalamnya, namun jika tidak terpenuhi lanjut ke kondisi kedua **elif** dan seterusnya, tapi jika tidak ada lagi kondisi yang terpenuhi maka komputer akan menjalankan kondisi/tindakan pada blok **else**
 
 ## Continue
 **continue** mengisyaratkan untuk melanjutkan tindakan iterasi ke kode selanjutnya
