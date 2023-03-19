@@ -25,7 +25,7 @@ Dalam membuat **iterasi array** dalam **python** kita dapat menggunkan beberapa 
 
 **print()** berfungsi untuk mencetak hasil atau keluaran dari hasil yang ingin kita tampilkan
 
-## About me
+# About me
 Hi! I am Arif an Software Engiinering spefically web development with holistic knowledge of Software Development. Lets connect with me on instagram with username **arifnofriadi_only_**
 
 
